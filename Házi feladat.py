@@ -1,1 +1,1 @@
-print("ez a második repository-m")
+print("Ezek módosítások vagyis commitok, amelyek ugyanazon repository részei.")
